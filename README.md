@@ -1,3 +1,5 @@
-# apnacollage.demo
+# apnacollage.
+
 this is my first git repository
-author-jatinkori
+<br>
+author-jatinkori (apna collage)
